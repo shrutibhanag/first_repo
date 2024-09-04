@@ -1,0 +1,31 @@
+/* Background color for the entire page */
+body {
+    background-color: #f0f8ff; /* Light blue color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* Styling for the heading */
+h1 {
+    color: #333; /* Dark gray color */
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+/* Styling for the paragraph */
+p {
+    color: #666; /* Medium gray color */
+    font-size: 1.5em;
+}
+h2 {
+    color: #333; /* Dark gray color */
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
